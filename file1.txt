@@ -1,0 +1,6 @@
+# create a tag
+git tag 0.1.4
+
+# check what you did 
+git describe --tags --long
+
