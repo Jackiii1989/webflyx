@@ -1,6 +1,12 @@
+#https://www.youtube.com/watch?v=kRqkIdKOkkg&list=PLJKv3qSDEE-mA2euOKEMjdrkOz4DQJsT4&index=6
+
 # create a tag
 git tag 0.1.4
 
 # check what you did 
 git describe --tags --long
+
+
+-DOVERLAY_CONFIG="src/conf/verion.conf"
+-DOVERLAY_CONFIG="c:/nordic_play_workfolder/dw3000/conf/verion.conf"
 
