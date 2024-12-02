@@ -10,3 +10,5 @@ git describe --tags --long
 -DOVERLAY_CONFIG="src/conf/verion.conf"
 -DOVERLAY_CONFIG="c:/nordic_play_workfolder/dw3000/conf/verion.conf"
 
+* The curious case of benjamin button
+
